@@ -51,12 +51,12 @@ if (pthread_create(&newthread , NULL, accept_request, client_sock) != 0) 。
 
 
 ## 参考
-*1.
+* 1.
 http://blog.csdn.net/jcjc918/article/details/42129311
 很好的介绍了tinyhttpd 的工作方式和代码解析。
-*2.
+* 2.
 源码下载地址:
 http://sourceforge.net/projects/tinyhttpd/
-*3. http https 协议介绍  
+* 3. http https 协议介绍  
 https://www.cnblogs.com/EricaMIN1987_IT/p/3837436.html
 https://www.cnblogs.com/binyue/p/4500578.html
