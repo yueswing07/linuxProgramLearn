@@ -57,3 +57,5 @@ http://blog.csdn.net/jcjc918/article/details/42129311
 2.
 源码下载地址:
 http://sourceforge.net/projects/tinyhttpd/
+3. http 协议介绍 
+https://www.cnblogs.com/EricaMIN1987_IT/p/3837436.html
